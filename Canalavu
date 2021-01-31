@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-chno="30819" tvg-logo="http://-sid:71a037718215a04b8dbaab9e907aa4bf9210aa682ad2e78b6c81df3e04c90f0a@192.168.1.146/images/default_picon.png" tvg-id="1:0:19:7863:41A:1:C00000:0:0:0:" tvg-name="LA 1 HD",LA 1 HD
+EXTINF:-1 tvg-chno="30819" group-title="Cine y Series" tvg-logo="http://-sid:71a037718215a04b8dbaab9e907aa4bf9210aa682ad2e78b6c81df3e04c90f0a@192.168.1.146/images/default_picon.png" tvg-id="1:0:19:7863:41A:1:C00000:0:0:0:" tvg-name="LA 1 HD",LA 1 HD
 #EXTVLCOPT:program=30819
 http://-sid:71a037718215a04b8dbaab9e907aa4bf9210aa682ad2e78b6c81df3e04c90f0a@192.168.1.146:8001/1:0:19:7863:41A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="29812" tvg-logo="http://-sid:71a037718215a04b8dbaab9e907aa4bf9210aa682ad2e78b6c81df3e04c90f0a@192.168.1.146/images/default_picon.png" tvg-id="1:0:1:7474:3F0:1:C00000:0:0:0:" tvg-name="LA 2",LA 2
