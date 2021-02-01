@@ -639,5 +639,6 @@ http://-sid:87c9369b92d2eaf78c56b2c525c76fe334a3171645f7d490697584cc5dc19c33@192
 #EXTINF:-1 tvg-id="" tvg-name="Sherlock Gnomes (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VIDEOCLUB +1000",Sherlock Gnomes (2018)
 http://pilarika.no-ip.org/Cine/Cine_01/020_-_Ice_Age_4,_La__Formacion_de_los_Continentes.mp4
 http://-sid:87c9369b92d2eaf78c56b2c525c76fe334a3171645f7d490697584cc5dc19c33@192.168.1.146:8001/1:0:19:2B66:3F3:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name="Ice Age 4 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VIDEOCLUB +1000",Sherlock Gnomes (2018)
-http://pilarika.no-ip.org/Cine/Cine_01/020_-_Ice_Age_4,_La__Formacion_de_los_Continentes.mp4
+#EXTINF:-1 tvg-id="" tvg-name="anastasia (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VIDEOCLUB +1000",anastasia (2018)
+https://xtoptv.com/SERVIDOR_2/ANASTASIA%20(INFANTIL).mp4
+
